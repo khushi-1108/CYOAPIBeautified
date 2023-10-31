@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POKEMON</string>
+    <string name="weight_height_format">Weight: %1$s kg\n Height: %2$s m</string>
+
+</resources>

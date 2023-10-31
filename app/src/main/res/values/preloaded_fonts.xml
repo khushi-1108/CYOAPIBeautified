@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akronim</item>
+        <item>@font/aladin</item>
+        <item>@font/allan</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/annie_use_your_telescope</item>
+        <item>@font/anonymous_pro</item>
+        <item>@font/anton</item>
+        <item>@font/arbutus_slab</item>
+    </array>
+</resources>
